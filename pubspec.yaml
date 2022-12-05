@@ -1,5 +1,5 @@
 name: job_application_generator
-description: A new Flutter project.
+description: Job Application Generator.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -36,6 +36,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  file_picker: ^5.2.3
 
 dev_dependencies:
   flutter_test:
